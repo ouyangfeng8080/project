@@ -1,5 +1,6 @@
 <template>
   <div class="main">
+    123
     <div class="dialog-content">
       <BubbleList :list="state.messages" max-height="100%" maxWidth="1000px">
         <!-- 自定义头像 -->
