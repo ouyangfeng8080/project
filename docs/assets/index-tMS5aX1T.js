@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,o as t}from"./index-Cdx-tGKq.js";const s={class:"index"},_={__name:"index",setup(c){return(a,n)=>(t(),o("div",s,"666666666666666666"))}},p=e(_,[["__scopeId","data-v-51487d3e"]]);export{p as default};
