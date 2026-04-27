@@ -1,5 +1,5 @@
 <template>
-  <div class="index">123123123</div>
+  <div class="index">666666666666666666</div>
 </template>
 
 <script setup>
