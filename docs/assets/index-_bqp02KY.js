@@ -1,0 +1,1 @@
+import{c as n,o as _}from"./index-drqd8Ka3.js";const a=(e,o)=>{const t=e.__vccOpts||e;for(const[c,s]of o)t[c]=s;return t},r={class:"index"},p={__name:"index",setup(e){return(o,t)=>(_(),n("div",r,"123123123"))}},i=a(p,[["__scopeId","data-v-7e4aa6e1"]]);export{i as default};
