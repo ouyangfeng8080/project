@@ -1,0 +1,1 @@
+import{d as s,c as _,o as a}from"./index-D9cUvy4e.js";const r={class:"index"},d=s({__name:"index",setup(e){return(o,t)=>(a(),_("div",r," 123123123 "))}}),p=(e,o)=>{const t=e.__vccOpts||e;for(const[c,n]of o)t[c]=n;return t},f=p(d,[["__scopeId","data-v-eadd5c48"]]);export{f as default};
